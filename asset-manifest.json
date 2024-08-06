@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Newswala/static/js/main.7632014e.js",
+    "static/js/453.d78f07a0.chunk.js": "/Newswala/static/js/453.d78f07a0.chunk.js",
+    "static/media/loading.gif": "/Newswala/static/media/loading.07aac8e8084855814a33.gif",
+    "index.html": "/Newswala/index.html",
+    "main.7632014e.js.map": "/Newswala/static/js/main.7632014e.js.map",
+    "453.d78f07a0.chunk.js.map": "/Newswala/static/js/453.d78f07a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7632014e.js"
+  ]
+}
